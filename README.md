@@ -8,7 +8,7 @@
 
 
 
-!(https://github.com/404-ERROR-arch/project/blob/main/Screenshot%202021-06-10%20194141.jpg)
+![](https://github.com/404-ERROR-arch/project/blob/main/Screenshot%202021-06-10%20194141.jpg)
 
 
 
